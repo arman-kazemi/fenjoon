@@ -1,0 +1,659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fenjoon\n"
+"POT-Creation-Date: 2015-06-22 11:11+0330\n"
+"PO-Revision-Date: 2015-06-22 11:12+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: footer.php:31
+msgid "Project progress"
+msgstr "درصد پیشرفت پروژه"
+
+#: functions.php:92
+msgid "Top Menu"
+msgstr "منوی اصلی"
+
+#: functions.php:191
+msgid "Order submitted successfully"
+msgstr "سفارش شما با موفقیت ثبت شد"
+
+#: functions.php:192
+msgid "Order updated successfully"
+msgstr "اطلاعات سفارش شما با موفقیت به روز رسانی شد"
+
+#: functions.php:193 functions.php:194
+msgid "Payment item submitted successfully"
+msgstr ""
+"پرداخت شما با موفقیت ثبت شد. لطفا به منظور مشاهده نتیجه بررسی، طی 24 ساعت "
+"آینده به این صفحه مراجعه کنید"
+
+#: functions.php:195
+msgid "Your login was successful"
+msgstr "با موفقیت وارد سایت شدید"
+
+#: functions.php:196
+msgid "Your logout was successful"
+msgstr "با موفقیت از سایت خارج شدید"
+
+#: functions.php:197
+msgid "Your registration was successful"
+msgstr "ثبت نام شما با موفقیت انجام شد"
+
+#: functions.php:202
+msgid "Title and Content incorrect"
+msgstr "قسمت‌های عنوان و جزئیات سفارش به طور صحیح پر نشده‌اند"
+
+#: functions.php:203
+msgid "Access denied. this operation is not permitted"
+msgstr "دسترسی غیر مجاز! شما مجاز به انجام این پردازش نیستید"
+
+#: functions.php:204
+msgid "Order did not submit and error occurred"
+msgstr "سفارش شما ثبت نشد. طی تلاش برای ثبت این سفارش خطایی رخ داد"
+
+#: functions.php:205
+msgid "Unknown error"
+msgstr "سیستم حین پردازش درخواست شما با خطای غیرمنتظره‌ای مواجه شد"
+
+#: functions.php:206
+msgid "Item in progress and cant be removed from order any more"
+msgstr ""
+"کار مربوط به برخی از گزینه‌هایی که از لیست سفارش حذف کردید آغاز شده و امکان "
+"حذف آن وجود ندارد"
+
+#: functions.php:207
+msgid "Order did not update and error occurred"
+msgstr ""
+"اطلاعات سفارش به روز رسانی نشد و طی به روز رسانی سفارش شما خطایی رخ داد"
+
+#: functions.php:208
+msgid "Date fields are not filled correctly"
+msgstr "فیلد تاریخ به درستی پر نشده است"
+
+#: functions.php:209
+msgid "Pursuit field should be filled correctly"
+msgstr "فیلد شماره پیگیری به درستی پر نشده است"
+
+#: functions.php:210
+msgid "Payment field should be filled correctly"
+msgstr "فیلد مبلغ به درستی پر نشده است"
+
+#: functions.php:211
+msgid "Payment item did not submit and error occurred"
+msgstr "پرداخت شما ثبت نشد. حین پردازش ثبت این پرداخت، خطای رخ داد"
+
+#: functions.php:212
+msgid "Access is restricted to members. Please register or login first"
+msgstr ""
+"دسترسی به این بخش از وبسایت مختص اعضا است. لطفا ابتدا ثبت نام کرده و یا با "
+"مشخصات کاربری خود وارد شوید"
+
+#: functions.php:213
+msgid "Your login was not successful"
+msgstr "تلاش شما برای ورود موفقیت آمیز نبود"
+
+#: functions.php:214
+msgid "You must fill the form completely"
+msgstr "لطفا فرم را به طور کامل پر کنید"
+
+#: functions.php:215
+msgid "Username already exists. Please choose another"
+msgstr "این نام کاربری قبلا ثبت شده است. لطفا نام کاربری دیگری انتخاب کنید"
+
+#: functions.php:216
+msgid "Email address already exists. Please choose another"
+msgstr "آدرس ایمیل قبلا ثبت شده است. لطفا آدرس ایمیل دیگری را وارد کنید"
+
+#: functions.php:247 functions.php:248 functions.php:249 functions.php:262
+msgid "General"
+msgstr "عمومی"
+
+#: functions.php:250
+msgid "Parent General"
+msgstr "آیتم عمومی اصلی"
+
+#: functions.php:251
+msgid "All General"
+msgstr "همه عمومی ها"
+
+#: functions.php:252
+msgid "View General"
+msgstr "مشاهده آیتم عمومی"
+
+#: functions.php:253
+msgid "Add New General"
+msgstr "افزودن آیتم عمومی"
+
+#: functions.php:254 functions.php:334
+msgid "Add New"
+msgstr "افزودن"
+
+#: functions.php:255
+msgid "Edit General"
+msgstr "ویرایش آیتم عمومی"
+
+#: functions.php:256
+msgid "Update General"
+msgstr "به روز رسانی آیتم عمومی"
+
+#: functions.php:257
+msgid "Search General"
+msgstr "جستجوی آیتم های عمومی"
+
+#: functions.php:258 functions.php:338
+msgid "Not found"
+msgstr "پیدا نشد"
+
+#: functions.php:259 functions.php:339
+msgid "Not found in Trash"
+msgstr "در زباله دان پیدا نشد"
+
+#: functions.php:263
+msgid "General information for the site"
+msgstr "آیتم های عمومی وبسایت"
+
+#: functions.php:291
+msgid "General Field"
+msgstr "دسته آیتم های عمومی"
+
+#: functions.php:292
+msgid "Add New Field"
+msgstr "افزودن فیلد جدید"
+
+#: functions.php:293
+msgid "New Field"
+msgstr "فیلد جدید"
+
+#: functions.php:306
+msgid "Field"
+msgstr "دسته"
+
+#: functions.php:317
+msgid "Field not set!"
+msgstr "دسته نامشخص"
+
+#: functions.php:327 functions.php:328 functions.php:329 functions.php:342
+#: home.php:55
+msgid "Portfolio"
+msgstr "نمونه کار"
+
+#: functions.php:330
+msgid "Parent Portfolio"
+msgstr "نمونه کار اصلی"
+
+#: functions.php:331
+msgid "All Portfolio"
+msgstr "همه نمونه کارها"
+
+#: functions.php:332
+msgid "View Portfolio"
+msgstr "مشاهده نمونه کار"
+
+#: functions.php:333
+msgid "Add New Portfolio"
+msgstr "افزودن نمونه کار"
+
+#: functions.php:335
+msgid "Edit Portfolio"
+msgstr "ویرایش نمونه کار"
+
+#: functions.php:336
+msgid "Update Portfolio"
+msgstr "به روز رسانی نمونه کار"
+
+#: functions.php:337
+msgid "Search Portfolio"
+msgstr "جستجوی نمونه کارها"
+
+#: functions.php:343
+msgid "Portfolio items"
+msgstr "نمونه کارها"
+
+#: functions.php:371
+msgid "Portfolio Cat"
+msgstr "دسته نمونه کارها"
+
+#: functions.php:372
+msgid "Add New Cat"
+msgstr "افزودن دسته جدید"
+
+#: functions.php:373
+msgid "New Cat"
+msgstr "دسته جدید"
+
+#: functions.php:390
+msgid "Portfolio Metadata"
+msgstr "اطلاعات تکمیلی نمونه کار"
+
+#: functions.php:407
+msgid "technology"
+msgstr "تکنولوژی"
+
+#: functions.php:417
+msgid "start"
+msgstr "تاریخ شروع"
+
+#: functions.php:427
+msgid "finish"
+msgstr "تاریخ اتمام"
+
+#: functions.php:437
+msgid "workforce"
+msgstr "نیروی کار"
+
+#: functions.php:447
+msgid "security"
+msgstr "امنیت"
+
+#: functions.php:478
+msgid "Logout"
+msgstr "خروج"
+
+#: functions.php:480 page-register.php:22 parts/login-form.php:7
+msgid "Login"
+msgstr "ورود"
+
+#: header.php:26
+#, php-format
+msgid "Welcome %s."
+msgstr "%s خوش آمدید"
+
+#: header.php:28
+msgid "Welcome guest"
+msgstr "کاربر عزیز خوش آمدید"
+
+#: header.php:44
+msgid "Fenjoon Group Website"
+msgstr "طعم خوش وب با فنجون"
+
+#: home.php:6
+msgid "About us"
+msgstr "درباره ما"
+
+#: home.php:6
+msgid "Our difference"
+msgstr "تفاوت ما"
+
+#: home.php:6
+msgid "Services we offer"
+msgstr "خدمات ما"
+
+#: home.php:6
+msgid "Services we do not offer"
+msgstr "خدماتی که ارائه نمی‌دهیم"
+
+#: home.php:6
+msgid "Public responsibility"
+msgstr "مسئولیت اجتماعی"
+
+#: home.php:28 page-general.php:35 page-webdesign.php:22 single.php:20
+msgid "Say more"
+msgstr "اطلاعات بیشتر"
+
+#: home.php:41
+msgid "Push this new order button right now!"
+msgstr "همین حالا برای ثبت سفارش طراحی وبسایت خود اقدام کنید!"
+
+#: home.php:43 sidebar.php:14
+msgid "Register new order"
+msgstr "ثبت سفارش جدید"
+
+#: orderlist.php:13
+msgid "List of your orders"
+msgstr "لیست سفارش‌های شما"
+
+#: orderlist.php:18
+msgid "Code"
+msgstr "شناسه"
+
+#: orderlist.php:19
+msgid "Title"
+msgstr "عنوان"
+
+#: orderlist.php:20 sidebar-orders.php:32 sidebar-orders.php:37
+#: sidebar-projects.php:32 sidebar-projects.php:37
+msgid "Date created"
+msgstr "ثبت"
+
+#: orderlist.php:21
+msgid "Date modified"
+msgstr "آخرین تغییر"
+
+#: orderlist.php:22
+msgid "Price"
+msgstr "قیمت"
+
+#: orderlist.php:23
+msgid "Time"
+msgstr "زمان"
+
+#: orderlist.php:24
+msgid "Status"
+msgstr "وضعیت"
+
+#: orderlist.php:41 sidebar-orders.php:64 sidebar.php:27
+msgid "Project"
+msgstr "پروژه"
+
+#: orderlist.php:41
+msgid "Submitted"
+msgstr "ثبت شده"
+
+#: orderlist.php:41
+msgid "Checking"
+msgstr "بررسی"
+
+#: orderlist.php:47
+msgid "You have not submitted any orders yet"
+msgstr "شما هنوز سفارشی ثبت نکرده‌اید"
+
+#: page-login.php:20
+msgid "Register on fenjoon to be able to submit new orders"
+msgstr ""
+"برای ثبت سفارش جدید باید ابتدا در سایت ثبت نام کنید. فرآیند ثبت نام تنها "
+"شامل نام و رمز عبور است"
+
+#: page-login.php:21 parts/register-form.php:8
+msgid "Register"
+msgstr "ثبت نام"
+
+#: page-register.php:21
+msgid "Please login if you are already a fenjoon member"
+msgstr ""
+"درصورتیکه قبلا در سایت فنجون ثبت نام کرده‌اید، می‌توانید با نام کاربری و رمز "
+"عبور خود وارد شوید"
+
+#: parts/login-form.php:2 parts/register-form.php:2
+msgid "Username"
+msgstr "نام کاربری"
+
+#: parts/login-form.php:3 parts/register-form.php:4
+msgid "Password"
+msgstr "رمز عبور"
+
+#: parts/register-form.php:3
+msgid "email"
+msgstr "ایمیل"
+
+#: parts/single-projects-instalments.php:4
+msgid "Web design"
+msgstr "طراحی وب"
+
+#: parts/single-projects-instalments.php:5
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: parts/single-projects-instalments.php:6
+msgid "Host registration"
+msgstr "سرویس میزبانی وب"
+
+#: parts/single-projects-instalments.php:7
+msgid "Domain registration"
+msgstr "دامنه اینترنتی"
+
+#: parts/single-projects-instalments.php:8
+msgid "Content development"
+msgstr "توسعه محتوا"
+
+#: parts/single-projects-instalments.php:9
+msgid "Penalty"
+msgstr "جریمه تأخیر پرداخت"
+
+#: parts/single-projects-instalments.php:20
+msgid "Amount"
+msgstr "مبلغ (تومان)"
+
+#: parts/single-projects-instalments.php:21
+msgid "Due"
+msgstr "سررسید"
+
+#: parts/single-projects-instalments.php:22
+msgid "Concern"
+msgstr "بابت"
+
+#: parts/single-projects-instalments.php:36
+msgid "This project has not any instalments yet."
+msgstr "این پروژه تا کنون هزینه‌ای نداشته است."
+
+#: parts/single-projects-payment.php:4 parts/single-projects-payments.php:12
+msgid "Payment"
+msgstr "پرداخت"
+
+#: parts/single-projects-payment.php:7
+msgid "Day"
+msgstr "روز"
+
+#: parts/single-projects-payment.php:9
+msgid "Month"
+msgstr "ماه"
+
+#: parts/single-projects-payment.php:11 sidebar.php:19
+msgid "Year"
+msgstr "سال"
+
+#: parts/single-projects-payment.php:14 parts/single-projects-payments.php:14
+msgid "Pursuit"
+msgstr "شماره پیگیری"
+
+#: parts/single-projects-payment.php:15 parts/single-projects-payments.php:15
+msgid "Note"
+msgstr "شرح"
+
+#: parts/single-projects-payment.php:26
+msgid "Submit payment"
+msgstr "ثبت پرداخت"
+
+#: parts/single-projects-payments.php:13
+msgid "Payment date"
+msgstr "تاریخ پرداخت"
+
+#: parts/single-projects-payments.php:30
+msgid "This project has not any payments yet."
+msgstr "این پروژه تا کنون پرداختی نداشته است."
+
+#: searchform.php:4
+msgid "Search"
+msgstr "جستجو"
+
+#: sidebar-orders.php:19 sidebar-projects.php:19
+msgid "Your order"
+msgstr "سفارش شما"
+
+#: sidebar-orders.php:26 sidebar-projects.php:26
+msgid "Identifier"
+msgstr "شناسه"
+
+#: sidebar-orders.php:43 sidebar-projects.php:43
+msgid "Correction"
+msgstr "تغییر"
+
+#: sidebar-orders.php:48 sidebar-projects.php:48 single-orders.php:121
+#: single-orders.php:122
+msgid "Toman"
+msgstr "تومان"
+
+#: sidebar-orders.php:52 sidebar-projects.php:52
+msgid "Days"
+msgstr "روز"
+
+#: sidebar-orders.php:63
+msgid "Related project"
+msgstr "پروژه متصل به این سفارش"
+
+#: sidebar-orders.php:68 sidebar-projects.php:68
+msgid "Help"
+msgstr "راهنما"
+
+#: sidebar-orders.php:71
+msgid "Selected"
+msgstr "انتخاب شده"
+
+#: sidebar-orders.php:74 single-projects.php:33
+msgid "In progress"
+msgstr "در دست اجرا"
+
+#: sidebar-orders.php:77
+msgid "Not selected"
+msgstr "انتخاب نشده"
+
+#: sidebar-projects.php:63
+msgid "Related order"
+msgstr "سفارش متصل به این پروژه"
+
+#: sidebar-projects.php:64 sidebar.php:25
+msgid "Order"
+msgstr "سفارش"
+
+#: sidebar-projects.php:71
+msgid "Modules"
+msgstr "ماژول‌ها"
+
+#: sidebar-projects.php:74
+msgid "Features"
+msgstr "قابلیت‌ها"
+
+#: sidebar-projects.php:77
+msgid "Standards"
+msgstr "استانداردها"
+
+#: sidebar.php:13
+msgid "Submit a new order!"
+msgstr "یک سفارش جدید ثبت کنید!"
+
+#: sidebar.php:17
+msgid "Our statistics"
+msgstr "آمار گروه فنجون"
+
+#: sidebar.php:19
+msgid "Activity start"
+msgstr "آغاز فعالیت"
+
+#: sidebar.php:21
+msgid "Number of customers"
+msgstr "تعداد مشتریان"
+
+#: sidebar.php:21 sidebar.php:23
+msgid "Person"
+msgstr "نفر"
+
+#: sidebar.php:23
+msgid "Team members"
+msgstr "اعضای گروه"
+
+#: sidebar.php:25
+msgid "Orders"
+msgstr "سفارش‌ها"
+
+#: sidebar.php:27
+msgid "Projects"
+msgstr "پروژه‌ها"
+
+#: single-orders.php:119
+msgid "Sum"
+msgstr "جمع"
+
+#: single-orders.php:133
+msgid "Complementary information"
+msgstr "اطلاعات تکمیلی"
+
+#: single-orders.php:135
+msgid "Order title"
+msgstr "عنوان سفارش"
+
+#: single-orders.php:140
+msgid "Order detail"
+msgstr "جزئیات سفارش"
+
+#: single-orders.php:150
+msgid "Submit order"
+msgstr "ثبت سفارش"
+
+#: single-orders.php:150
+msgid "Update order"
+msgstr "به روز رسانی سفارش"
+
+#: single-projects.php:33
+msgid "Done"
+msgstr "انجام شده"
+
+#: single-projects.php:33
+msgid "In queue"
+msgstr "در صف شروع"
+
+#: single-projects.php:73
+msgid "Project status"
+msgstr "وضعیت پروژه"
+
+#: single-projects.php:94
+msgid "Project summary"
+msgstr "خلاصه پروژه"
+
+#: single-projects.php:99
+msgid "Elapsed time"
+msgstr "سپرسی شده"
+
+#: single-projects.php:105
+msgid "Remaining time"
+msgstr "باقی مانده"
+
+#: single-projects.php:116
+msgid "Project instalments"
+msgstr "هزینه‌های پروژه"
+
+#: single-projects.php:120
+msgid "Payment history"
+msgstr "سابقه پرداخت‌های این پروژه"
+
+#: single-projects.php:124
+msgid "Submit new payment"
+msgstr "ثبت پرداخت جدید"
+
+#~ msgid "(more...)"
+#~ msgstr "بیشتر"
+
+#~ msgid "Sorry, no posts matched your criteria."
+#~ msgstr "متاسفانه پستی با این مشخصات پیدا نشد"
+
+#~ msgid "Activity duration"
+#~ msgstr "مدت زمان فعالیت"
+
+#~ msgid "Website"
+#~ msgstr "وبسایت"
+
+#~ msgid "Web application"
+#~ msgstr "برنامه"
+
+#~ msgid "Welcome dear user %s."
+#~ msgstr "کاربر محترم %s خوش آمدید"
+
+#~ msgid "Date"
+#~ msgstr "تاریخ پرداخت"
+
+#~ msgid "New order"
+#~ msgstr "ثبت سفارش"
+
+#~ msgid "Technology"
+#~ msgstr "فناوری"
+
+#~ msgid "Start date"
+#~ msgstr "تاریخ شروع"
+
+#~ msgid "Finish date"
+#~ msgstr "تاریخ اتمام"
+
+#~ msgid "Workforce"
+#~ msgstr "نیروی کار"

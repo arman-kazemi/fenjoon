@@ -2,15 +2,34 @@
 # This file is distributed under the same license as the Twenty Fourteen package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-08-29 14:20:38+0000\n"
+"PO-Revision-Date: 2015-04-21 13:59:22+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/0.1\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
 "Project-Id-Version: Twenty Fourteen\n"
 
-#: inc/customizer.php:102
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyfourteen/"
+msgstr "https://wordpress.org/themes/twentyfourteen/"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content-aside.php:48 content-audio.php:48 content-gallery.php:48
+#: content-image.php:48 content-link.php:48 content-quote.php:48
+#: content-video.php:48 content.php:56 inc/template-tags.php:222
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ادامه خواندن %s <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/customizer.php:31 inc/customizer.php:32
+msgid "May only be visible on wide screens."
+msgstr "ممکن است فقط روی نمایشگرهای عریض نمایش داده شود"
+
+#: inc/customizer.php:108
 msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
 msgstr "این قابلیت به شما امکان می‌دهد تا ۶ نوشته را برای نمایش دائمی در برگه نخست سایت انتخاب کنید، این انتخاب براساس یک <a href=\"%1$s\">برچسب</a> انجام می‌شود که می‌توانید برچسب و لایه موردنظر را در بخش <a href=\"%2$s\">نمایش &larr; شخصی‌سازی</a> ویرایش کنید. اگر نوشته‌ای با برچسب همخوانی نداشت، <a href=\"%3$s\">نوشته‌های سنجاق‌شده</a> به‌جای آن به نمایش درمی‌آیند."
 
@@ -38,12 +57,13 @@ msgstr "گالری‌های بیشتر"
 msgid "More asides"
 msgstr "حاشیه‌های بیشتر"
 
+#. translators: used with More archives link
 #: inc/widgets.php:206
 msgid "%s <span class=\"meta-nav\">&rarr;</span>"
-msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&larr;</span>"
 
-#: inc/customizer.php:37 inc/customizer.php:102 inc/featured-content.php:407
-#: inc/featured-content.php:416 inc/featured-content.php:476
+#: inc/customizer.php:42 inc/customizer.php:108 inc/featured-content.php:405
+#: inc/featured-content.php:414 inc/featured-content.php:474
 msgctxt "featured content default tag slug"
 msgid "featured"
 msgstr "شاخص"
@@ -52,24 +72,21 @@ msgstr "شاخص"
 msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
 msgstr "از این ابزارک برای فهرست کردن تازه‌ترین حاشیه، نقل‌قول، ویدیو، صدا، تصویر، گالری و پیوندها استفاده کنید."
 
-msgid "http://wordpress.org/themes/twentyfourteen"
-msgstr "http://wordpress.org/themes/twentyfourteen"
-
-#: inc/customizer.php:36 inc/featured-content.php:406
+#: inc/customizer.php:41 inc/featured-content.php:404
 msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
-msgstr "از یک <a href=\"%1$s\">برچسب</a> برای ویژه کردن مطالب خود استفاده کنید. اگر هیچ نوشته‌ای با برچسب هماهنگ نشود، <a href=\"%2$s\">نوشته های سنجاق شده</a> به جای آن نمایش داده می‌شود."
+msgstr "از یک <a href=\"%1$s\">برچسب</a> برای ویژه کردن مطالب خود استفاده کنید. اگر هیچ نوشته‌ای با برچسب هماهنگ نشود، <a href=\"%2$s\">نوشته‌های سنجاق شده</a> به جای آن نمایش داده می‌شود."
 
 #: 404.php:17
 msgid "Not Found"
 msgstr "پیدا نشد"
 
-#: inc/customizer.php:31
+#: inc/customizer.php:27
 msgid "Display Site Title &amp; Tagline"
 msgstr "نمایش عنوان و توضیحات سایت"
 
-#: inc/customizer.php:104
+#: inc/customizer.php:110
 msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
-msgstr "برای یک آموزش عمیق و راهنمایی‌ها و ترفند های بیشتر <a href=\"%s\">راهنمای دو هزار و چهارده</a> را ببینید."
+msgstr "برای یک آموزش عمیق و راهنمایی‌ها و ترفند‌های بیشتر <a href=\"%s\">راهنمای دو هزار و چهارده</a> را ببینید."
 
 #: archive.php:34
 msgctxt "monthly archives date format"
@@ -81,26 +98,27 @@ msgctxt "yearly archives date format"
 msgid "Y"
 msgstr "Y"
 
-#: inc/customizer.php:28
+#: inc/customizer.php:24
 msgid "Site Title Color"
 msgstr "رنگ عنوان سایت"
 
-#: inc/featured-content.php:428
+#: inc/featured-content.php:426
 msgid "Tag Name"
 msgstr "نام برچسب"
 
-#: inc/featured-content.php:433
+#: inc/featured-content.php:431
 msgid "Don&rsquo;t display tag on front end."
 msgstr "برچسب‌ها را در نمایش نهایی نشان نده."
 
+#. Description of the plugin/theme
 msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
 msgstr "در 2014، پوسته پیشفرض ما، شما می‌توانید یک سایت مجله‌ای واکنشگرا (Responsive) با یک طراحی جذاب و مدرن بسازید. با استفاده از نمایش مختصاتی یا اسلایدر مطالب دلخواه صفحه اول سایتتان را برجسته کنید. از سه ناحیه ابزارک برای شخصی سازی سایتتان کمک بگیرید و شکل قرار گرفتن مطالب را با یک نمونه تمام صفحه به کل عوض کنید. همچنین با استفاده از صفحه \"مشارکت کننده\" نویسندگان سایت خود را معرفی کنید. ساختن یک سایت مجله‌ای با وردپرس هیچ وقت تا این اندازه آسان نبوده است!!!"
 
-#: functions.php:254
+#: functions.php:258
 msgid "Previous"
 msgstr "پیشین"
 
-#: functions.php:255
+#: functions.php:259
 msgid "Next"
 msgstr "پسین"
 
@@ -110,7 +128,7 @@ msgstr "به نظر می‌رسد چیزی اینجا نیست. مایل هست�
 
 #: author.php:31
 msgid "All posts by %s"
-msgstr "همه نوشته های %s"
+msgstr "همه نوشته‌های %s"
 
 #: content-aside.php:17 content-audio.php:17 content-featured-post.php:28
 #: content-gallery.php:17 content-image.php:17 content-link.php:17
@@ -125,13 +143,13 @@ msgstr "نوار کناری اضافی که در سمت راست نمایان م
 
 #: functions.php:189
 msgid "Footer Widget Area"
-msgstr "ناحیه ابزارک های پایین صفحه"
+msgstr "ناحیه ابزارک‌های پایین صفحه"
 
 #: functions.php:191
 msgid "Appears in the footer section of the site."
 msgstr "در بخش پایین سایت نشان داده می‌شود."
 
-#: functions.php:372
+#: functions.php:376
 msgid "%d Article"
 msgid_plural "%d Articles"
 msgstr[0] "%d مقاله"
@@ -148,27 +166,27 @@ msgstr "عکس بعدی"
 msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
 msgstr "دو هزار و چهارده حداقل به نسخه 3.6 وردپرس نیاز دارد. شما در حال استفاده از نسخه %s هستید. لطفا وردپرس خود را به ارتقا دهید و دوباره امتحان کنید."
 
-#: inc/customizer.php:19 inc/customizer.php:20
+#: inc/customizer.php:34 inc/customizer.php:35
 msgid "Background may only be visible on wide screens."
 msgstr "تصویر پس زمینه ممکن است فقط در نمایشگرهای عریض قابل مشاهده باشد."
 
-#: inc/customizer.php:35 inc/featured-content.php:405
+#: inc/customizer.php:40 inc/featured-content.php:403
 msgid "Featured Content"
 msgstr "مطالب ویژه"
 
-#: inc/customizer.php:50
+#: inc/customizer.php:56
 msgid "Layout"
 msgstr "طرح"
 
-#: inc/customizer.php:54
+#: inc/customizer.php:60
 msgid "Grid"
 msgstr "دستگاه مختصات"
 
-#: inc/customizer.php:55
+#: inc/customizer.php:61
 msgid "Slider"
 msgstr "اسلایدر"
 
-#: inc/customizer.php:103
+#: inc/customizer.php:109
 msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
 msgstr "با استفاده از <a href=\"%s\">تصاویر شاخص</a> برای نوشته هایی که می‌خواهید عالی به نظر برسند، طراحی سایت خود را افزایش دهید. این به شما اجازه می‌دهد که یک عکس را به یک نوشته وصل کنید بدون اینکه مجبور باشید تصویر را وارد نوشته کنید. دوهزار و چهارده از تصاویر شاخص برای نوشته‌ها و برگه ها، در بالای عناوین و در قسمت مطالب ویژه صفحه‌ی خانه استفاده می‌کند."
 
@@ -213,6 +231,7 @@ msgstr "تعداد نوشته هایی که نمایش داده می‌شوند:
 msgid "Post format to show:"
 msgstr "قالب نوشته برای نمایش:"
 
+#. Template Name of the plugin/theme
 msgid "Contributor Page"
 msgstr "برگه مشارکت کننده"
 
@@ -251,19 +270,19 @@ msgstr "هدایت دیدگاه"
 
 #: comments.php:35 comments.php:53
 msgid "&larr; Older Comments"
-msgstr "&larr; دیدگاه های کهنه تر"
+msgstr "&larr; دیدگاه‌های کهنه‌تر"
 
 #: comments.php:36 comments.php:54
 msgid "Newer Comments &rarr;"
-msgstr "دیدگاه های تازه تر &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
 
 #: comments.php:59
 msgid "Comments are closed."
 msgstr "امکان ثبت دیدگاه وجود ندارد."
 
-#: content-aside.php:48 content-audio.php:48 content-gallery.php:48
-#: content-image.php:48 content-link.php:48 content-page.php:22
-#: content-quote.php:48 content-video.php:48 content.php:56 image.php:54
+#: content-aside.php:53 content-audio.php:53 content-gallery.php:53
+#: content-image.php:53 content-link.php:53 content-page.php:22
+#: content-quote.php:53 content-video.php:53 content.php:61 image.php:54
 msgid "Pages:"
 msgstr "برگه‌ها:"
 
@@ -292,11 +311,9 @@ msgstr "1 دیدگاه"
 msgid "% Comments"
 msgstr "% دیدگاه"
 
-#: content-aside.php:46 content-audio.php:46 content-gallery.php:46
-#: content-image.php:46 content-link.php:46 content-quote.php:46
-#: content-video.php:46 content.php:54 inc/widgets.php:127 inc/widgets.php:172
+#: inc/widgets.php:127 inc/widgets.php:172
 msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
-msgstr "ادامه‌ی خواندن <span class=\"meta-nav\">&larr;</span>"
+msgstr "ادامه‌ی خواندن <span class=\"meta-nav\">&rarr;</span>"
 
 #: footer.php:21
 msgid "http://wordpress.org/"
@@ -326,12 +343,14 @@ msgstr "نوار کناری اصلی که سمت چپ نمایان می‌شود
 msgid "Content Sidebar"
 msgstr "نوار کناری مطالب"
 
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
 #: functions.php:213
 msgctxt "Lato font: on or off"
 msgid "on"
 msgstr "روشن"
 
-#: functions.php:491
+#: functions.php:495
 msgid "Page %s"
 msgstr "برگه %s"
 
@@ -353,11 +372,11 @@ msgstr "پیمایش نوشته"
 
 #: inc/template-tags.php:50
 msgid "&larr; Previous"
-msgstr "&larr; پیشین"
+msgstr "&rarr; قبلی"
 
 #: inc/template-tags.php:51
 msgid "Next &rarr;"
-msgstr "پسین &rarr;"
+msgstr "بعدی &larr;"
 
 #: inc/template-tags.php:109
 msgid "Sticky"
@@ -411,12 +430,16 @@ msgstr "نقل قول ها"
 msgid "Search Results for: %s"
 msgstr "نتایج جستجو برای : %s"
 
-#: inc/customizer.php:99
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 1.4)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/customizer.php:105
 msgid "Twenty Fourteen"
 msgstr "دو هزار و چهارده"
 
+#. Author of the plugin/theme
 msgid "the WordPress team"
 msgstr "تیم وردپرس"
 
+#. Template Name of the plugin/theme
 msgid "Full Width Page"
 msgstr "برگه تمام صفحه"

@@ -2,49 +2,55 @@
 # This file is distributed under the same license as the Twenty Thirteen package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-11-29 20:11+0330\n"
+"PO-Revision-Date: 2015-04-21 13:57:27+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
 "Project-Id-Version: Twenty Thirteen\n"
-"POT-Creation-Date: \n"
-"Last-Translator: Gonahkar <gonahkarblog@gmail.com>\n"
-"Language-Team: \n"
-"Language: fa_IR\n"
 
-msgid ""
-"The 2013 theme for WordPress takes us back to the blog, featuring a full "
-"range of post formats, each displayed beautifully in their own unique way. "
-"Design details abound, starting with a vibrant color scheme and matching "
-"header images, beautiful typography and icons, and a flexible layout that "
-"looks great on any device, big or small."
-msgstr ""
-"پوسته‌ی ۲۰۱۳ برای وردپرس، ما را به زمان وبلاگ برمی‌گرداند. امکاناتی همچون "
-"انواع گوناگون نوشته‌ها و محتوا که هر کدام به زیبایی با ظاهری منحصربه‌فرد به "
-"نمایش درمی‌آیند."
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentythirteen/"
+msgstr "https://wordpress.org/themes/twentythirteen/"
 
-#: functions.php:229
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content-aside.php:16 content-audio.php:27 content-chat.php:26
+#: content-gallery.php:27 content-image.php:26 content-link.php:27
+#: content-quote.php:16 content-status.php:16 content-video.php:26
+#: content.php:44 functions.php:478
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ادامه خواندن %s <span class=\"meta-nav\">&larr;</span>"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "یافت نشد"
+
+#. Description of the plugin/theme
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr "پوسته‌ی ۲۰۱۳ برای وردپرس، ما را به زمان وبلاگ برمی‌گرداند. امکاناتی همچون انواع گوناگون نوشته‌ها و محتوا که هر کدام به زیبایی با ظاهری منحصربه‌فرد به نمایش درمی‌آیند."
+
+#: functions.php:233
 msgid "Appears in the footer section of the site."
 msgstr "در بخش پایین سایت نشان داده می‌شود."
-
-msgid "http://wordpress.org/themes/twentythirteen"
-msgstr "http://wordpress.org/themes/twentythirteen"
 
 #: image.php:38
 msgid "Link to full-size image"
 msgstr "پیوند به تصویر تمام‌اندازه"
 
-#: functions.php:227
+#: functions.php:231
 msgid "Main Widget Area"
 msgstr "ناحیه اصلی ابزارک"
 
-#: functions.php:237
+#: functions.php:241
 msgid "Secondary Widget Area"
 msgstr "ناحیه ثانویه ابزارک"
 
-#: functions.php:239
+#: functions.php:243
 msgid "Appears on posts and pages in the sidebar."
 msgstr "در ستونِ کنار نوشته‌ها و برگه‌ها نشان داده می‌شود."
 
@@ -52,17 +58,9 @@ msgstr "در ستونِ کنار نوشته‌ها و برگه‌ها نشان �
 msgid "Full resolution"
 msgstr "تمام صفحه"
 
-#: inc/back-compat.php:38 inc/back-compat.php:50 inc/back-compat.php:65
-msgid ""
-"Twenty Thirteen requires at least WordPress version 3.6. You are running "
-"version %s. Please upgrade and try again."
-msgstr ""
-"دو هزار و سیزده برای اجرا نیازمند وردپرس ۳.۶ است. شما در حال استفاده از "
-"نگارش %s هستید. لطفا وردپرس‌تان را به‌روز کرده و دوباره آزمایش کنید."
-
-#: 404.php:16
-msgid "Not found"
-msgstr "پیدا نشد"
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+msgid "Twenty Thirteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "دو هزار و سیزده برای اجرا نیازمند وردپرس ۳.۶ است. شما در حال استفاده از نگارش %s هستید. لطفا وردپرس‌تان را به‌روز کرده و دوباره آزمایش کنید."
 
 #: 404.php:21
 msgid "This is somewhat embarrassing, isn&rsquo;t it?"
@@ -70,8 +68,7 @@ msgstr "این تا حدودی شرم‌آور است، این‌طور نیست
 
 #: 404.php:22
 msgid "It looks like nothing was found at this location. Maybe try a search?"
-msgstr ""
-"به نظر می‌رسد که چیزی که میخواهید در اینجا پیدا نشد. می‌خواهید جستجو کنید؟"
+msgstr "به نظر می‌رسد که چیزی که میخواهید در اینجا پیدا نشد. می‌خواهید جستجو کنید؟"
 
 #: archive.php:29
 msgid "Daily Archives: %s"
@@ -99,15 +96,15 @@ msgstr "Y"
 msgid "Archives"
 msgstr "بایگانی"
 
-#: author-bio.php:16
+#: author-bio.php:26
 msgid "About %s"
 msgstr "درباره‌ی %s"
 
-#: author-bio.php:20
+#: author-bio.php:30
 msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
 msgstr "دیدن همه نوشته‌های %s <span class=\"meta-nav\">&larr;</span>"
 
-#: author.php:30
+#: author.php:31
 msgid "All posts by %s"
 msgstr "همه‌ی نوشته‌های %s"
 
@@ -137,42 +134,36 @@ msgstr "دیدگاه‌های تازه‌تر &larr;"
 msgid "Comments are closed."
 msgstr "دیدگاهها بسته هستند."
 
-#: content-aside.php:13 content-audio.php:24 content-gallery.php:24
-#: content-image.php:23 content-link.php:24 content-quote.php:13
-#: content-status.php:13 content-video.php:23 content.php:39
-msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
-msgstr "ادامه‌ی خواندن <span class=\"meta-nav\">&larr;</span>"
-
-#: content-aside.php:14 content-audio.php:25 content-chat.php:24
-#: content-gallery.php:25 content-image.php:24 content-link.php:25
-#: content-quote.php:14 content-status.php:14 content-video.php:24
-#: content.php:40 image.php:70 page.php:35
+#: content-aside.php:20 content-audio.php:31 content-chat.php:30
+#: content-gallery.php:31 content-image.php:30 content-link.php:31
+#: content-quote.php:20 content-status.php:20 content-video.php:30
+#: content.php:48 image.php:70 page.php:35
 msgid "Pages:"
 msgstr "برگه‌ها:"
 
-#: content-aside.php:20 content-aside.php:28 content-audio.php:31
-#: content-chat.php:29 content-gallery.php:39 content-image.php:35
-#: content-link.php:19 content-quote.php:25 content-status.php:19
-#: content-video.php:35 content.php:29 image.php:44 page.php:39
+#: content-aside.php:27 content-aside.php:35 content-audio.php:38
+#: content-chat.php:36 content-gallery.php:46 content-image.php:42
+#: content-link.php:19 content-quote.php:32 content-status.php:26
+#: content-video.php:42 content.php:31 image.php:44 page.php:39
 msgid "Edit"
 msgstr "ویرایش"
 
-#: functions.php:371
+#: functions.php:369
 msgid "Permalink to %s"
 msgstr "پیوند یکتا به %s"
 
-#: content-gallery.php:36 content-image.php:32 content-quote.php:22
-#: content-video.php:32 content.php:47
+#: content-gallery.php:43 content-image.php:39 content-quote.php:29
+#: content-video.php:39 content.php:56
 msgid "Leave a comment"
 msgstr "نوشتن دیدگاه"
 
-#: content-gallery.php:36 content-image.php:32 content-quote.php:22
-#: content-video.php:32 content.php:47
+#: content-gallery.php:43 content-image.php:39 content-quote.php:29
+#: content-video.php:39 content.php:56
 msgid "One comment so far"
 msgstr "یک دیدگاه تاکنون"
 
-#: content-gallery.php:36 content-image.php:32 content-quote.php:22
-#: content-video.php:32 content.php:47
+#: content-gallery.php:43 content-image.php:39 content-quote.php:29
+#: content-video.php:39 content.php:56
 msgid "View all % comments"
 msgstr "دیدن همه‌ی دیدگاه‌های %"
 
@@ -181,65 +172,61 @@ msgid "Nothing Found"
 msgstr "پیدا نشد"
 
 #: content-none.php:18
-msgid ""
-"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
-msgstr ""
-"میخواهید اولین نوشته‌ی خود را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز "
-"کنید</a>. "
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "میخواهید اولین نوشته‌ی خود را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز کنید</a>. "
 
 #: content-none.php:22
-msgid ""
-"Sorry, but nothing matched your search terms. Please try again with "
-"different keywords."
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
 msgstr "متاسفانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید."
 
 #: content-none.php:27
-msgid ""
-"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
-"searching can help."
-msgstr ""
-"به‌نظر می‌رسد نمی‌توانیم چیزی که شما به دنبال آن هستید را بیابیم. شاید جستجو "
-"بتواند به شما کمک کند."
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به‌نظر می‌رسد نمی‌توانیم چیزی که شما به دنبال آن هستید را بیابیم. شاید جستجو بتواند به شما کمک کند."
 
-#: footer.php:20
+#: footer.php:19
 msgid "http://wordpress.org/"
 msgstr "http://wordpress.org/"
 
-#: footer.php:20
+#: footer.php:19
 msgid "Semantic Personal Publishing Platform"
 msgstr "بستر انتشار شخصی معنایی"
 
-#: footer.php:20
+#: footer.php:19
 msgid "Proudly powered by %s"
 msgstr "با افتخار نیرو گرفته از %s"
 
-#: functions.php:93
+#: functions.php:97
 msgid "Navigation Menu"
 msgstr "فهرست پیمایش"
 
-#: functions.php:124
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:128
 msgctxt "Source Sans Pro font: on or off"
 msgid "on"
 msgstr "on"
 
-#: functions.php:130
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:134
 msgctxt "Bitter font: on or off"
 msgid "on"
 msgstr "off"
 
-#: functions.php:212
+#: functions.php:218
 msgid "Page %s"
 msgstr "برگه %s"
 
-#: functions.php:264
+#: functions.php:266
 msgid "Posts navigation"
 msgstr "پیمایش نوشته‌ها"
 
-#: functions.php:268
+#: functions.php:270
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr "<span class=\"meta-nav\">&rarr;</span> نوشته‌های کهنه‌تر"
 
-#: functions.php:272
+#: functions.php:274
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr "نوشته‌های تازه‌تر <span class=\"meta-nav\">&larr;</span>"
 
@@ -257,19 +244,20 @@ msgctxt "Next post link"
 msgid "%title <span class=\"meta-nav\">&rarr;</span>"
 msgstr "%title <span class=\"meta-nav\">&larr;</span>"
 
-#: functions.php:324
+#: functions.php:322
 msgid "Sticky"
 msgstr "سنجاق‌شده"
 
-#: functions.php:330 functions.php:336
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:328 functions.php:334
 msgid ", "
 msgstr "، "
 
-#: functions.php:345
+#: functions.php:343
 msgid "View all posts by %s"
 msgstr "دیدن همه‌ی نوشته‌های %s"
 
-#: functions.php:365
+#: functions.php:363
 msgctxt "1: post format name. 2: date"
 msgid "%1$s on %2$s"
 msgstr "%1$s در %2$s"
@@ -283,14 +271,8 @@ msgid "Skip to content"
 msgstr "رفتن به محتوا"
 
 #: image.php:22
-msgid ""
-"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
-"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
-"rel=\"gallery\">%5$s</a></span>"
-msgstr ""
-"<span class=\"attachment-meta\">انتشار در <time class=\"entry-date\" "
-"datetime=\"%1$s\">%2$s</time> در <a href=\"%3$s\" title=\"بازگشتن به %4$s\" "
-"rel=\"gallery\">%5$s</a></span>"
+msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr "<span class=\"attachment-meta\">انتشار در <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> در <a href=\"%3$s\" title=\"بازگشتن به %4$s\" rel=\"gallery\">%5$s</a></span>"
 
 #: image.php:51
 msgid "<span class=\"meta-nav\">&larr;</span> Previous"
@@ -300,17 +282,17 @@ msgstr "<span class=\"meta-nav\">&rarr;</span> قبلی"
 msgid "Next <span class=\"meta-nav\">&rarr;</span>"
 msgstr "بعدی <span class=\"meta-nav\">&larr;</span>"
 
-#: inc/custom-header.php:48
+#: inc/custom-header.php:49
 msgctxt "header image description"
 msgid "Circle"
 msgstr "دایره"
 
-#: inc/custom-header.php:53
+#: inc/custom-header.php:54
 msgctxt "header image description"
 msgid "Diamond"
 msgstr "لوزی"
 
-#: inc/custom-header.php:58
+#: inc/custom-header.php:59
 msgctxt "header image description"
 msgid "Star"
 msgstr "ستاره"
@@ -327,8 +309,10 @@ msgstr "بایگانی برچسب: %s"
 msgid "%s Archives"
 msgstr "بایگانی %s"
 
+#. Theme Name of the plugin/theme
 msgid "Twenty Thirteen"
 msgstr "دو هزار و سیزده"
 
+#. Author of the plugin/theme
 msgid "the WordPress team"
 msgstr "گروه وردپرس"

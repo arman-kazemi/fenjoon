@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fenjoon\n"
+"POT-Creation-Date: 2015-06-19 02:07+0330\n"
+"PO-Revision-Date: 2015-06-19 02:07+0330\n"
+"Last-Translator: \n"
+"Language-Team: Fenjoon\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions.php:18 functions.php:20 functions.php:33
+msgid "Site Types"
+msgstr "نوع سایت ها"
+
+#: functions.php:19
+msgid "Site Type"
+msgstr "نوع سایت"
+
+#: functions.php:21
+msgid "Parent Site Type"
+msgstr "نوع سایت مادر"
+
+#: functions.php:22
+msgid "All Site Types"
+msgstr "همه نوع سایت ها"
+
+#: functions.php:23
+msgid "View Site Type"
+msgstr "مشاهده نوع سایت"
+
+#: functions.php:24
+msgid "Add New Site Type"
+msgstr "افزودن نوع سایت"
+
+#: functions.php:25 functions.php:68 functions.php:111 functions.php:153
+msgid "Add New"
+msgstr "افزودن"
+
+#: functions.php:26
+msgid "Edit Site Type"
+msgstr "ویرایش "
+
+#: functions.php:27
+msgid "Update Site Type"
+msgstr "به روز رسانی نوع سایت"
+
+#: functions.php:28
+msgid "Search Site Types"
+msgstr "جستجوی نوع سایت"
+
+#: functions.php:29 functions.php:72 functions.php:115 functions.php:157
+#: functions.php:199 functions.php:239
+msgid "Not found"
+msgstr "یافت نشد"
+
+#: functions.php:30 functions.php:73 functions.php:116 functions.php:158
+#: functions.php:200 functions.php:240
+msgid "Not found in Trash"
+msgstr "در زباله دان یافت نشد"
+
+#: functions.php:34
+msgid "Different site types, our team may design and develop"
+msgstr "انواع مختلف وبسایت که تیم ما قادر به طراحی آن است"
+
+#: functions.php:61 functions.php:63 functions.php:76
+msgid "Modules"
+msgstr "ماژول ها"
+
+#: functions.php:62
+msgid "Module"
+msgstr "ماژول"
+
+#: functions.php:64
+msgid "Parent Module"
+msgstr "ماژول مادر"
+
+#: functions.php:65
+msgid "All Modules"
+msgstr "همه ماژول ها"
+
+#: functions.php:66
+msgid "View Module"
+msgstr "مشاهده ماژول"
+
+#: functions.php:67
+msgid "Add New Module"
+msgstr "افزودن ماژول"
+
+#: functions.php:69
+msgid "Edit Module"
+msgstr "ویرایش ماژول"
+
+#: functions.php:70
+msgid "Update Module"
+msgstr "به روز رسانی ماژول"
+
+#: functions.php:71
+msgid "Search Modules"
+msgstr "جستجوی ماژول ها"
+
+#: functions.php:77
+msgid "Different Modules, our team may design and develop"
+msgstr "ماژول های مختلف که تیم ما قادر به پیاده سازی آن است"
+
+#: functions.php:104 functions.php:106 functions.php:119
+msgid "Features"
+msgstr "قابلیت ها"
+
+#: functions.php:105
+msgid "Feature"
+msgstr "قابلیت"
+
+#: functions.php:107
+msgid "Parent Feature"
+msgstr "قابلیت مادر"
+
+#: functions.php:108
+msgid "All Features"
+msgstr "همه قابلیت ها"
+
+#: functions.php:109
+msgid "View Feature"
+msgstr "مشاهده قابلیت"
+
+#: functions.php:110
+msgid "Add New Feature"
+msgstr "افزودن قابلیت"
+
+#: functions.php:112
+msgid "Edit Feature"
+msgstr "ویرایش قابلیت"
+
+#: functions.php:113
+msgid "Update Feature"
+msgstr "به روز رسانی قابلیت"
+
+#: functions.php:114
+msgid "Search Features"
+msgstr "جستجوی قابلیت ها"
+
+#: functions.php:120
+msgid "Different Features, our team may design and develop"
+msgstr "قابلیت های محتلف که تیم ما قادر به پیاده سازی آن است"
+
+#: functions.php:146 functions.php:148 functions.php:161
+msgid "Standards"
+msgstr "استانداردها"
+
+#: functions.php:147
+msgid "Standard"
+msgstr "استاندارد"
+
+#: functions.php:149
+msgid "Parent Standard"
+msgstr "استاندارد مادر"
+
+#: functions.php:150
+msgid "All Standards"
+msgstr "همه استانداردها"
+
+#: functions.php:151
+msgid "View Standard"
+msgstr "مشاهده استاندارد"
+
+#: functions.php:152
+msgid "Add New Standard"
+msgstr "افزودن استاندارد"
+
+#: functions.php:154
+msgid "Edit Standard"
+msgstr "ویرایش استاندارد"
+
+#: functions.php:155
+msgid "Update Standard"
+msgstr "به روز رسانی استاندارد"
+
+#: functions.php:156
+msgid "Search Standards"
+msgstr "جستجوی استانداردها"
+
+#: functions.php:162
+msgid "Different Standards, our team may design and develop"
+msgstr "استانداردهای مختلفی که تیم ما قادر به پیاده سازی و رعایت آن است"
+
+#: functions.php:189 functions.php:191 functions.php:203
+msgid "Orders"
+msgstr "سفارش ها"
+
+#: functions.php:190
+msgid "Order"
+msgstr "سفارش"
+
+#: functions.php:192
+msgid "All Orders"
+msgstr "همه سفارش ها"
+
+#: functions.php:193
+msgid "View Order"
+msgstr "مشاهده سفارش"
+
+#: functions.php:194
+msgid "Add a New Order"
+msgstr "افزودن سفارش"
+
+#: functions.php:195 functions.php:235
+msgid "Add a New"
+msgstr "افزودن"
+
+#: functions.php:196
+msgid "Edit Order"
+msgstr "ویرایش سفارش"
+
+#: functions.php:197
+msgid "Update Order"
+msgstr "به روز رسانی سفارش"
+
+#: functions.php:198
+msgid "Search Orders"
+msgstr "جستجوی سفارش ها"
+
+#: functions.php:204
+msgid "The requests which are submitted known as ORDERS!"
+msgstr "سفارش هایی که به تیم ما ارائه میشود"
+
+#: functions.php:229 functions.php:231 functions.php:243
+msgid "Projects"
+msgstr "پروژه ها"
+
+#: functions.php:230
+msgid "Project"
+msgstr "پروژه"
+
+#: functions.php:232
+msgid "All Projects"
+msgstr "همه پروژه ها"
+
+#: functions.php:233
+msgid "View Project"
+msgstr "مشاهده پروژه"
+
+#: functions.php:234
+msgid "Add a New Project"
+msgstr "افزودن پروژه"
+
+#: functions.php:236
+msgid "Edit Project"
+msgstr "ویرایش پروژه"
+
+#: functions.php:237
+msgid "Update Project"
+msgstr "به روز رسانی پروژه"
+
+#: functions.php:238
+msgid "Search Projects"
+msgstr "جستجوی پروژه ها"
+
+#: functions.php:244
+msgid "The Projects which are submitted known as Projects!"
+msgstr "پروژه هایی که از یک سفارش ایجاد میشوند"
+
+#: functions.php:272
+msgid "Preselected choices selected by selecting this Sitetype"
+msgstr "انتخاب‌های پیشفرض مرتبط با انتخاب این نوع سایت"
+
+#: functions.php:353
+msgid "Select child "
+msgstr "جستجوی فرزند"
+
+#: functions.php:402
+msgid "Workforce Metabox"
+msgstr "نیروی کار لازم"
+
+#: functions.php:414
+msgid "Workforce needed (Man-Hour)"
+msgstr "نیروی کار لازم (نفر ساعت)"
+
+#: functions.php:441
+msgid "Choose order owner"
+msgstr "انتخاب صاحب سفارش"
+
+#: functions.php:470
+msgid "Submitted Choices selected by Costumer"
+msgstr "گزینه های انتخاب شده توسط مشتری"
+
+#: functions.php:542
+msgid "Start its Project now!"
+msgstr "پروژه این سفارش را ایجاد کنید!"
+
+#: functions.php:553
+msgid "Last changes of this order"
+msgstr "آخرین تغییرات اعمال شده"
+
+#: functions.php:566
+msgid "Edit Project No. "
+msgstr "ویرایش پروژه شماره "
+
+#: functions.php:568
+msgid ""
+"Please note that this is a ONE TIME start and your changes are irreversible!"
+msgstr ""
+"لطفا توجه داشته باشید که این تغییر تنها یک بار اتفاق می افتد و غیر قابل "
+"بازگشت است. با اطمینان کامل تغییر دهید!"
+
+#: functions.php:573
+msgid "Project Started"
+msgstr "پروژه آغاز شد"
+
+#: functions.php:574
+msgid "Change to Project"
+msgstr "ایجاد یک پروژه"
+
+#: functions.php:867 functions.php:868
+msgid "Fenjoon Settings"
+msgstr "تنظیمات فنجون"
+
+#: functions.php:898
+msgid "Work Force Settings"
+msgstr "تنظیمات نیروی کار"
+
+#: functions.php:905
+msgid "Developers Count"
+msgstr "تعداد نفرات توسعه دهنده"
+
+#: functions.php:913
+msgid "Man-Hour Fee"
+msgstr "هزینه هر نفر ساعت کار"
+
+#: functions.php:921
+msgid "Daily Work Hours"
+msgstr "ساعت کار روزانه"
+
+#: functions.php:978
+msgid "Payment History"
+msgstr "سابقه پرداخت"
+
+#: functions.php:986 functions.php:1188
+msgid "Project Progress"
+msgstr "چک لیست پیشرفت پروژه"
+
+#: functions.php:994
+msgid "Last changes of this Project"
+msgstr "آخرین تغییرات اعمال شده"
+
+#: functions.php:1007
+msgid "Choose editor"
+msgstr "انتخاب ویرایشگر"
+
+#: functions.php:1020
+msgid "Not assigned yet"
+msgstr "تخصیص داده نشده"
+
+#: functions.php:1081
+msgid "In Progress"
+msgstr "شروع به انجام"
+
+#: functions.php:1082 inc/fjn-task-list.php:39
+msgid "Done"
+msgstr "انجام شد"
+
+#: functions.php:1083
+msgid "Still in order"
+msgstr "در لیست سفارش"
+
+#: functions.php:1084
+msgid "Added to order"
+msgstr "افزوده شده به لیست سفارش"
+
+#: functions.php:1085
+msgid "Removed from order"
+msgstr "حذف شده از لیست سفارش"
+
+#: functions.php:1265
+msgid "New Tasks"
+msgstr "وظیفه جدید"
+
+#: functions.php:1352
+msgid "My Tasks"
+msgstr "وظایف من"
+
+#: functions.php:1359
+msgid "All tasks assigned to you over time"
+msgstr "وظایفی که تا کنون به شما تخصیص داده شده است"
+
+#: functions.php:1434
+msgid "Web design"
+msgstr "طراحی وب"
+
+#: functions.php:1435
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: functions.php:1436
+msgid "Host registration"
+msgstr "سرویس میزبانی وب"
+
+#: functions.php:1437
+msgid "Domain registration"
+msgstr "دامنه اینترنتی"
+
+#: functions.php:1438
+msgid "Content development"
+msgstr "توسعه محتوا"
+
+#: functions.php:1439
+msgid "Penalty"
+msgstr "جریمه تأخیر پرداخت"
+
+#: functions.php:1443 functions.php:1516
+msgid "No"
+msgstr "خیر"
+
+#: functions.php:1444 functions.php:1517
+msgid "Yes"
+msgstr "بله"
+
+#: functions.php:1451
+msgid "Project instalments"
+msgstr "هزینه‌های پروژه"
+
+#: functions.php:1455
+msgid "Instalment id"
+msgstr "شناسه قسط"
+
+#: functions.php:1456
+msgid "Amount"
+msgstr "مبلغ (تومان)"
+
+#: functions.php:1457
+msgid "Due"
+msgstr "سررسید"
+
+#: functions.php:1458
+msgid "Passed"
+msgstr "پاس شده"
+
+#: functions.php:1459
+msgid "Concern"
+msgstr "بابت"
+
+#: functions.php:1460 functions.php:1534
+msgid "Delete"
+msgstr "حذف"
+
+#: functions.php:1494 functions.php:1502 functions.php:1569
+msgid "Select"
+msgstr "انتخاب کنید"
+
+#: functions.php:1524
+msgid "Payment history"
+msgstr "پرداخت‌های پروژه"
+
+#: functions.php:1528
+msgid "Payment id"
+msgstr "شناسه پرداخت"
+
+#: functions.php:1529
+msgid "Payment"
+msgstr "مبلغ (تومان)"
+
+#: functions.php:1530
+msgid "Date"
+msgstr "تاریخ"
+
+#: functions.php:1531
+msgid "Approved"
+msgstr "تأیید شده"
+
+#: functions.php:1532
+msgid "Pursuit"
+msgstr "شماره پیگیری"
+
+#: functions.php:1533
+msgid "Note"
+msgstr "توضیح"
+
+#: inc/class-fjn-list-table.php:36
+msgid "List View"
+msgstr "نمایش لیست"
+
+#: inc/class-fjn-list-table.php:37
+msgid "Excerpt View"
+msgstr "مشاهده خلاصه"
+
+#: inc/class-fjn-list-table.php:103
+msgid "No items found."
+msgstr "هیچ موردی یافت نشد."
+
+#: inc/class-fjn-list-table.php:156
+msgid "Select bulk action"
+msgstr "انتخاب کار کلی"
+
+#: inc/class-fjn-list-table.php:158
+msgid "Bulk Actions"
+msgstr "کارهای کلی"
+
+#: inc/class-fjn-list-table.php:165
+msgid "Apply"
+msgstr "اعمال"
+
+#: inc/class-fjn-list-table.php:215
+msgid "Filter by date"
+msgstr "فیلتر با زمان"
+
+#: inc/class-fjn-list-table.php:217
+msgid "All dates"
+msgstr "همه زمان ها"
+
+#: inc/class-fjn-list-table.php:230
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: inc/class-fjn-list-table.php:258
+#, php-format
+msgid "%s pending"
+msgstr "%s در انتظار بررسی"
+
+#: inc/class-fjn-list-table.php:294 inc/class-fjn-list-table.php:578
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "%s مورد"
+
+#: inc/class-fjn-list-table.php:313
+msgid "Go to the first page"
+msgstr "رفتن به صفحه اول"
+
+#: inc/class-fjn-list-table.php:320
+msgid "Go to the previous page"
+msgstr "صفحه قبلی"
+
+#: inc/class-fjn-list-table.php:329
+msgid "Select Page"
+msgstr "انتخاب صفحه"
+
+#: inc/class-fjn-list-table.php:330
+msgid "Current page"
+msgstr "صفحه جاری"
+
+#: inc/class-fjn-list-table.php:336
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: inc/class-fjn-list-table.php:340
+msgid "Go to the next page"
+msgstr "صفحه بعدی"
+
+#: inc/class-fjn-list-table.php:347
+msgid "Go to the last page"
+msgstr "رفتن به صفحه آخر"
+
+#: inc/class-fjn-list-table.php:422
+msgid "Select All"
+msgstr "انتخاب همه"
+
+#: inc/fjn-task-list.php:33
+msgid "Task ID"
+msgstr "شناسه"
+
+#: inc/fjn-task-list.php:34
+msgid "Activity title"
+msgstr "فعالیت"
+
+#: inc/fjn-task-list.php:35
+msgid "Project title"
+msgstr "پروژه"
+
+#: inc/fjn-task-list.php:36
+msgid "Assigned"
+msgstr "تخصیص"
+
+#: inc/fjn-task-list.php:37
+msgid "Seen"
+msgstr "رؤیت"
+
+#: inc/fjn-task-list.php:38
+msgid "Started"
+msgstr "شروع"
+
+#~ msgid "Project id"
+#~ msgstr "شناسه پروژه"
+
+#~ msgid "Attributes"
+#~ msgstr "ویژگی ها"
+
+#~ msgid "Attribute"
+#~ msgstr "ویژگی"
+
+#~ msgid "Parent Attribute"
+#~ msgstr "ویژگی مادر"
+
+#~ msgid "All Attributes"
+#~ msgstr "همه ویژگی ها"
+
+#~ msgid "View Attribute"
+#~ msgstr "مشاهده ویژگی"
+
+#~ msgid "Add New Attribute"
+#~ msgstr "افزودن ویژگی"
+
+#~ msgid "Edit Attribute"
+#~ msgstr "ویرایش ویژگی"
+
+#~ msgid "Update Attribute"
+#~ msgstr "به روز رسانی ویژگی"
+
+#~ msgid "Search Attributes"
+#~ msgstr "جستجوی ویژگی ها"
+
+#~ msgid "Different Attributes, our team may design and develop"
+#~ msgstr "ویژگی های محتلفی که تیم ما قادر به پیاده سازی آن است"
+
+#~ msgid "Workforce Multi Metabox"
+#~ msgstr "ضریب افزایش نیروی کار"
+
+#~ msgid "Workforce multiplier needed (Man-Hour)"
+#~ msgstr "ضریب افزایش نیروی کار لازم ( از 1 تا 2 )"
+
+#~ msgid "Choose worker"
+#~ msgstr "انتخاب کنید"
+
+#~ msgid "Task List"
+#~ msgstr "لیست وظایف"
